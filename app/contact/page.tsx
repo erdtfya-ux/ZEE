@@ -11,8 +11,8 @@ export default function ContactPage() {
 
   const info = [
     { Icon: MapPin, label: t.contact.address, value: t.contact.addressValue },
-    { Icon: Phone, label: t.contact.phone, value: "+20 10 99366869⁩", ltr: true },
-    { Icon: Mail, label: t.contact.email, value: "op@zinternationalgroup.org", ltr: true },
+    { Icon: Phone, label: t.contact.phone, value: "+966 11 234 5678", ltr: true },
+    { Icon: Mail, label: t.contact.email, value: "info@zinternational.com", ltr: true },
     { Icon: Clock, label: t.contact.hours, value: t.contact.hoursValue },
   ]
 
